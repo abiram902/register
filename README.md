@@ -1,2 +1,0 @@
-# register
-python register
